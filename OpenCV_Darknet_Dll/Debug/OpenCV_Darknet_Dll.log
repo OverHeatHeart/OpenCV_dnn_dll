@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  dllmain.cpp
+LINK : fatal error LNK1104: 'opencv_worldd411.lib' 파일을 열 수 없습니다.
